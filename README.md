@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently MERN Stack Developer.
 - 💞️ I’m looking to collaborate on linux
-- 📫 awaisahmad@awaisfazal.com
+- 📫 awaisahmadsofteng@gmail.com
 
 <!---
 awaisahmad64/awaisahmad64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
