@@ -1,7 +1,7 @@
   - 👋 Hi, I’m Awais Ahmad
 - 👀 I’m interested in web development
 - 🌱 I’m currently MERN Stack Developer.
-- 💞️ I’m looking to collaborate on linux
+- 💞️ I’m looking to collaborate on anything I can!
 - 📫 awaisahmadsofteng@gmail.com
 
 <!---
