@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on anything I can!
 - 📫 awaisahmadsofteng@gmail.com
 [![Awais Ahmad's Github stats](https://github-readme-stats.vercel.app/api?username=awaisahmad64&show_icons=true&theme=radical&prs_merged&prs_merged_percentage)](https://github.com/awaisahmad64/github-readme-stats)
-
 <!---
 awaisahmad64/awaisahmad64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?awaisahmad64=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=awaisahmad64&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?awaisahmad64=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=awaisahmad64&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?awaisahmad64=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awaisahmad64&show_icons=true" />
 </picture>
