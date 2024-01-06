@@ -1,4 +1,4 @@
-![Alt text](https://scontent.flyp6-2.fna.fbcdn.net/v/t1.15752-9/409826746_1568825050609485_4775459436681751053_n.png?stp=dst-png_s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeH22Z31sx0CmIbJe5sp77p8fe4Oiqtx4dh97g6Kq3Hh2KHtr9VO_XlbjH8qxlR2QkpWsQ0HABbQhijhEupZ_wXq&_nc_ohc=caljOn05jC8AX_XYZ5E&_nc_ht=scontent.flyp6-2.fna&oh=03_AdSB2vJTpbGp6fYY7pOyd6vqIYFF4f8H_WOTSkDcmRcMZQ&oe=65C097F5)]
+![Alt text](https://scontent.flyp6-2.fna.fbcdn.net/v/t1.15752-9/409826746_1568825050609485_4775459436681751053_n.png?stp=dst-png_s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeH22Z31sx0CmIbJe5sp77p8fe4Oiqtx4dh97g6Kq3Hh2KHtr9VO_XlbjH8qxlR2QkpWsQ0HABbQhijhEupZ_wXq&_nc_ohc=caljOn05jC8AX_XYZ5E&_nc_ht=scontent.flyp6-2.fna&oh=03_AdSB2vJTpbGp6fYY7pOyd6vqIYFF4f8H_WOTSkDcmRcMZQ&oe=65C097F5)
 - 👋 Hi, I’m Awais Ahmad
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack.
