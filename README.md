@@ -10,7 +10,7 @@
 
 <p>[![Awais Ahmad's Github stats](https://github-readme-stats.vercel.app/api?username=awaisahmad64&show_icons=true&theme=radical&prs_merged&prs_merged_percentage)](https://github.com/awaisahmad64/github-readme-stats)</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaisahmad64&show_icons=true&locale=en&layout=compact" alt="awaisahmad64" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisahmad64&" alt="awaisahmad64" /></p>
 <!---
 awaisahmad64/awaisahmad64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
