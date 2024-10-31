@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=apple-system&size=34&pause=1000&color=FE428E&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Awais+Ahmad" alt="Typing SVG" /></a>
 <h1> A passionate software developer from Pakistan.</h1>
 
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on anything I can!
+- 🌱 I’m currently looking for a role as a MERN Stack developer.
+- 💞️ I’m also looking to collaborate on anything I can!
 - 📫 awaisahmadsofteng@gmail.com
 
 <h3 align="left">Connect with me:</h3>
